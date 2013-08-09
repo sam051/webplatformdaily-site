@@ -25,9 +25,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Unit testing: *Spying on JavaScript methods* with Jasmine, [@clemenshelm]()’s short 6-min [screencast](http://blog.codeship.io/2013/08/06/testing-tuesday-17-how-to-spy-on-javascript-methods-with-jasmine.html)
    - *REST + JSON APIs* in detail, [@lhazlewood]()’s 57-min [@JAXconf]() [talk](http://marakana.com/s/post/1526/beautiful_rest_and_json_apis_les_hazelwood_video)
  - Content
-   - Infographic: *Evolution of HTML5*, [page](http://www.csschopper.com/blog/infographic-evolution-of-html5-past-present-and-future)
-   - “Pixel perfect *timing attacks with HTML5*” (white paper), [@pdjstone]()’s 29-page [PDF](http://contextis.co.uk/files/Browser_Timing_Attacks.pdf)
-   - Things can you do with *ES6 string template literals*, [@littlecalculist]()’s code [examples](https://gist.github.com/dherman/6165867)
+   - “Pixel perfect *timing attackEvolution of HTMLtring template literals*, [@littlecalculist]()’s code [examples](https://gist.github.com/dherman/6165867)
    - The *history of SEO*, [@HubSpot]()’s extensive 101-page [slide deck](http://blog.hubspot.com/history-of-seo-glimpse-into-future-tl-ss)
  - Tools
    - Pancake.js, a library for *flattening SVG and Canvas elements* into images on the fly, [repo](https://github.com/veltman/pancakejs)
